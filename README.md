@@ -1,3 +1,7 @@
+# Python 실행환경(Linux)
+* pyhon, pip 설치 확인
+* python 가상환경설정
+
 # TableauStudy
 
 ##TSM_API
